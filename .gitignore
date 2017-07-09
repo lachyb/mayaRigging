@@ -88,3 +88,10 @@ ENV/
 # Rope project settings
 .ropeproject
 .idea/*
+mayaRigTools/.idea/inspectionProfiles/profiles_settings.xml
+mayaRigTools/.idea/inspectionProfiles/Project_Default.xml
+mayaRigTools/.idea/mayaRigTools.iml
+mayaRigTools/.idea/misc.xml
+mayaRigTools/.idea/modules.xml
+mayaRigTools/.idea/vcs.xml
+mayaRigTools/.idea/workspace.xml
